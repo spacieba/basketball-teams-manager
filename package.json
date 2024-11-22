@@ -1,8 +1,8 @@
 {
+  "homepage": "https://spacieba.github.io/basketball-teams-manager",
   "name": "basketball-teams-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://spacieba.github.io/basketball-teams-manager",
   "dependencies": {
     "@headlessui/react": "^2.2.0",
     "@heroicons/react": "^2.2.0",
