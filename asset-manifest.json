@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basketball-teams-manager/static/css/main.37caef03.css",
+    "main.js": "/basketball-teams-manager/static/js/main.3cc0897f.js",
+    "static/js/453.3389f76a.chunk.js": "/basketball-teams-manager/static/js/453.3389f76a.chunk.js",
+    "index.html": "/basketball-teams-manager/index.html",
+    "main.37caef03.css.map": "/basketball-teams-manager/static/css/main.37caef03.css.map",
+    "main.3cc0897f.js.map": "/basketball-teams-manager/static/js/main.3cc0897f.js.map",
+    "453.3389f76a.chunk.js.map": "/basketball-teams-manager/static/js/453.3389f76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37caef03.css",
+    "static/js/main.3cc0897f.js"
+  ]
+}
